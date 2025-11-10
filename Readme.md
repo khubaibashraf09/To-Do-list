@@ -2,6 +2,8 @@
 
 A simple, modern, and responsive To-Do List web app built with HTML, CSS, and vanilla JavaScript. It supports adding, editing, completing, and deleting tasks with persistent storage using `localStorage`. Includes a Light/Dark theme toggle and smooth UI interactions.
 
+Live Preview: https://to-do-list-rust-one-32.vercel.app/
+
 ### ✨ Features
 - **Add tasks**: Quickly add new tasks using the input and Add button or press Enter.
 - **Edit tasks**: Update existing tasks inline via a prompt.
